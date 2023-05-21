@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #000;
+  overflow: auto;
+}
+.header {
+  font-family: Times New Roman ", Times, serif";
+}
+.rowover {
+  --bs-gutter-x: 0;
+}

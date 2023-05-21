@@ -1,0 +1,14 @@
+.footer {
+  background-color: #95979b;
+  margin: 0;
+  font-family: "Courier New", Courier, monospace;
+}
+.redes {
+  padding-top: 15px;
+}
+.row {
+  @extend .centrar;
+}
+.contacto {
+  padding-top: 15px;
+}

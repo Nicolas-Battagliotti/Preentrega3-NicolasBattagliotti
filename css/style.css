@@ -1,0 +1,208 @@
+.rosariodeportes {
+  color: #ffffff;
+}
+
+.indumentaria-container {
+  background-image: url(../images/fondo\ beige.avif);
+}
+
+.rosariodeportes {
+  margin: 20px;
+  display: inline-block;
+}
+
+.beb {
+  color: #fff;
+}
+
+.tituloindumentaria {
+  border: solid 5px #fff;
+  color: #fff;
+}
+
+.card {
+  width: 200px;
+  padding: 0.8em;
+  background: #000;
+  color: #000;
+  position: relative;
+  overflow: visible;
+  box-shadow: 4 1px 3px rgb(255, 255, 255), 0 1px 2px rgba(255, 225, 0, 0.24);
+}
+
+.card-image {
+  background-color: #000;
+  height: 100%;
+  width: 100%;
+  border-radius: 0.5rem;
+  transition: 0.3s ease;
+}
+
+.card-footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  border-top: 1px solid #fff;
+}
+
+.text-titulo {
+  padding-bottom: 50%;
+  height: 1vh;
+  font-size: 1.2em;
+  line-height: 1.5;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.body-contacto {
+  background-color: #000;
+  background-size: 100vw 100vh;
+  margin: 0;
+  padding: 0;
+  border: none;
+  color: #fff;
+}
+
+form {
+  width: 450px;
+  margin: auto;
+  background: #000;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  margin-top: 20px;
+  border-radius: 7px;
+  max-width: 80%;
+}
+
+h2 {
+  color: #000000;
+  text-align: center;
+  margin: 0;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+input,
+textarea {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 7px;
+  box-sizing: border-box;
+  font-size: 17px;
+}
+
+textarea {
+  min-height: 100px;
+  max-height: 200px;
+  max-width: 100%;
+}
+
+#boton {
+  background: #31384a;
+  color: #fff;
+  padding: 20px;
+}
+
+#boton:hover {
+  cursor: pointer;
+}
+
+@media (max-widht: 480px) {
+  form {
+    width: 100%;
+  }
+}
+
+.centrar,
+.section,
+.row,
+.indumentaria-calzados-accesorios,
+.indumentariaDeporte {
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+
+
+.footer {
+  background-color: #95979b;
+  margin: 0;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.redes {
+  padding-top: 15px;
+}
+
+.contacto {
+  padding-top: 15px;
+}
+
+.header {
+  font-family: Times New Roman ", Times, serif";
+}
+
+.header .navbar {
+  background-color: #95979b;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+  background-color: #000;
+  overflow: auto;
+}
+
+.header {
+  font-family: Times New Roman ", Times, serif";
+}
+
+.rowover {
+  --bs-gutter-x: 0;
+}
+
+.section {
+  display: inline-block;
+  justify-content: center;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+}
+
+.section1 {
+  color: #fff;
+}
+
+
+
+.section2 {
+  background-color: #523c20;
+}
+
+.titulo {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 500px;
+}
+
+.texto {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
